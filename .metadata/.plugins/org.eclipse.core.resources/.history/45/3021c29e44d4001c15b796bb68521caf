@@ -1,0 +1,16 @@
+package firstPackage;
+
+import java.util.Scanner;
+
+public class TestSwitchCase {
+
+	public static void main(String[] args) {
+		Scanner myObj = new Scanner(System.in);
+		int days = myObj.nextInt();
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,13 @@
+package firstPackage;
+
+public class LogicalOperators {
+
+	public static void main(String[] args) {
+		boolean x = 100 > 99 , y = 99 > 100 ;
+		
+		//&& AND operator 
+		System.out.println("");
+
+	}
+
+}

@@ -1,0 +1,15 @@
+package firstPackage;
+
+public class TestIFBranch {
+
+	public static void main(String[] args) {
+		int extraCustomers = 6 ; 
+		if (extraCustomers >= 3) {
+			
+			System.out.println("Customers recevies a Discount ");
+			
+		}
+
+	}
+
+}

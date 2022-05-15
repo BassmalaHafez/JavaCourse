@@ -1,0 +1,22 @@
+package firstPackage;
+
+public class LogicalOperators {
+
+	public static void main(String[] args) {
+		boolean x = 100 > 99 , y = 99 > 100 ;
+		
+		//&& AND operator 
+		System.out.println("What is the result of 100 > 99 && 99 > 100?" + (x&&y));
+		//|| OR operator
+		System.out.println("What is the result of 100 > 99 || 99 > 100?" + (x||y));
+		//^ xor operator
+		System.out.println("What is the result of 100 > 99 ^ 99 > 100?" + (x^y));
+		//! not operator2
+		System.out.println("What is the result of 100 > 99 ?" + (!y));
+
+
+
+
+	}
+
+}

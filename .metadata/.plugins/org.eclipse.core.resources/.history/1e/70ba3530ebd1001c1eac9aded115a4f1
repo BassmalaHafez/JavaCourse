@@ -1,0 +1,12 @@
+package firstPackage;
+
+public class InhertanceCalculation {
+	
+	int total ;
+	
+	
+	public static Addition (fNum , SecNum) {
+		
+	}
+
+}

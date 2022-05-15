@@ -1,0 +1,13 @@
+package firstPackage;
+
+public class MyInhertedCalculation extends InhertanceCalculation {
+	
+
+	public static void main(String[] args) {
+		MyInhertedCalculation myCalc = new MyInhertedCalculation();
+		myCalc.Addition(100, 50);
+		myCalc.Substraction(200, 100);
+
+	}
+
+}

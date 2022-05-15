@@ -1,0 +1,16 @@
+package firstPackage;
+
+public class ClassVariable {
+	
+	static int age = 30 ;
+	
+	public void testClassVariable() {
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

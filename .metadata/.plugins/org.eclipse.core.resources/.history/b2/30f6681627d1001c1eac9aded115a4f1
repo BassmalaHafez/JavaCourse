@@ -1,0 +1,18 @@
+package firstPackage;
+
+public class TestLocalVar {
+	
+	public void testLocalVar() {
+		int age = 34 ; 
+	}
+	
+	public void testLocalVar1() {
+		int age = 85 ; 
+	}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

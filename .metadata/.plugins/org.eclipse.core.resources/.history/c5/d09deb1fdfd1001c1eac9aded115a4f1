@@ -1,0 +1,23 @@
+package firstPackage;
+import java.util.*; 
+
+public class HackerRank {
+	
+	private static final Scanner scanner = new Scanner(System.in);
+
+
+	public static void main(String[] args) {
+		  
+       int N = scanner.nextInt(); 
+         if(N%2!=0) {
+        	 System.out.println("Weird");
+        	 
+         }if else {
+        	 
+         }
+                   
+        in.close();             
+
+	}
+
+}

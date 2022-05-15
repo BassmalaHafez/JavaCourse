@@ -1,0 +1,14 @@
+package firstPackage;
+
+public class StringDemo {
+
+	public static void main(String[] args) {
+		String greeting = "Hello World !";
+		
+		int len = greeting.length();
+		
+		System.out.println(len);
+
+	}
+
+}
