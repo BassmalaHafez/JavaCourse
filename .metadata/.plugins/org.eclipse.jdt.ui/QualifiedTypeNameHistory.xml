@@ -12,5 +12,8 @@
     <fullyQualifiedTypeName name="firstPackage.ClassVariable"/>
     <fullyQualifiedTypeName name="firstPackage.InhertanceCalculation"/>
     <fullyQualifiedTypeName name="firstPackage.MyInhertedCalculation"/>
+    <fullyQualifiedTypeName name="firstPackage.Animals"/>
+    <fullyQualifiedTypeName name="firstPackage.Dog"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
