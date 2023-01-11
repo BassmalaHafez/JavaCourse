@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1321bf27-fa8f-4b84-ad94-239acd885672" name="Changes" comment="Learning-Java">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstPackage/ClassStaticVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstPackage/EnglishCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstPackage/FirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstPackage/InstanceVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstPackage/LocalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstPackage/ParameterVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstPackage/SecondClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/AnimalAbsrtractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/ArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/ArrayListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/ArrayListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/ConstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/DogTestAbstractMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/ElseIFBranch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/EncapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/FileNotFoundDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/IAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/IfBranch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/ImplementInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/MethodOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/MyCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/OverLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/PolymorphismOverride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/RelationalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/RunEncap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/SwitchBranch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/TestConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/TestDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/TestMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/WriteAndReadFile.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JPHsa5eJjVxn3dOx4c6b3ExdyN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Personal/projects/Java-OOP"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.WriteAndReadFile">
+    <configuration name="ArrayListDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.ArrayListDemo1" />
+      <module name="Java-OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.ArrayListDemo2" />
+      <module name="Java-OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogTestAbstractMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.DogTestAbstractMethod" />
+      <module name="Java-OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.LinkedListDemo" />
+      <module name="Java-OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteAndReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.WriteAndReadFile" />
+      <module name="Java-OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WriteAndReadFile" />
+        <item itemvalue="Application.ArrayListDemo2" />
+        <item itemvalue="Application.ArrayListDemo1" />
+        <item itemvalue="Application.LinkedListDemo" />
+        <item itemvalue="Application.DogTestAbstractMethod" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1321bf27-fa8f-4b84-ad94-239acd885672" name="Changes" comment="" />
+      <created>1671973006591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671973006591</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Learning-Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning-Java" />
+  </component>
+</project>
